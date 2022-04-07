@@ -1,0 +1,35 @@
+﻿Evacuation Center Name,Ward,Start Point,Max Point,End Point,% of people by ward
+Pango_French_School,Pango,0,826,52,48
+AOG Pango,Pango,0,895,57,52
+Nangirie,South Ward,0,2493,39,100
+Dubea Hall,Central Ward,0,1171,70,41
+Seaside tongoa,Central Ward,0,1685,100,59
+Selime Church,Freswota-Tassirriki,0,281,38,4
+Saint joseph,Freswota-Tassirriki,0,1687,228,24
+Freswota School,Freswota-Tassirriki,0,2179,300,31
+Malasitapu,Freswota-Tassirriki,0,492,70,7
+Epauto S School,Freswota-Tassirriki,0,1968,272,28
+PVIS,Freswota-Tassirriki,0,421,48,6
+Matakeru Church,Malapoa-tagabe,0,1376,200,20
+Freshwind,Malapoa-tagabe,0,344,49,5
+Agriculture Dept Collage,Malapoa-tagabe,0,550,76,8
+Anglican Church,Malapoa-tagabe,0,1032,150,15
+Pakarua Church,Malapoa-tagabe,0,344,50,5
+Sorovanga School,Malapoa-tagabe,0,550,67,7
+Wan Smol Bag,Malapoa-tagabe,0,1513,220,22
+Bible Church tagabe,Malapoa-tagabe,0,550,80,8
+Tagabe_Presbyterian_Church,Malapoa-tagabe,0,103,15,1.5
+Black_sands_church,Malapoa-tagabe,0,69,11,1
+Malapoa_College,Malapoa-tagabe,0,385,55,5.6
+Iauko_Nakamal,Erakor,0,1263,52,24
+Emau_PresbyterianChurch,Erakor,0,1263,51,24
+Erakor_house_of_Refugee,Erakor,0,368,14,7
+Enam_Presbyterian_Church,Erakor,0,894,36,17
+Erakor_community_church,Erakor,0,631,25,12
+Holen_Presbyterian_Church,Erakor,0,842,35,16
+Lycce_Lab,Anabrou-Melcoffee_Ward,0,836,45,14
+Makira_Community_Hall,Anabrou-Melcoffee_Ward,0,716,39,12
+Anaburu_School,Anabrou-Melcoffee_Ward,0,567,30,9.5
+AOG_tebakor_church,Anabrou-Melcoffee_Ward,0,3763,200,63
+Mele_Presbyterian_Church,Mele,0,1306,50,47
+Port_Vila_Christian_School,Mele,0,1473,107,53

@@ -1,0 +1,6 @@
+"#name","region","country","lat","lon","location_type","conflict_date","population"
+"Vanuatu NCC","Port Vila","Vanuatu",-17.74383,168.31686,"conflict",0,5000
+"Port Vila Central Hospital","Port Vila","Vanuatu",-17.74385,168.32113,"camp",1,4500
+"National Museum Vanuatu","Port Vila","Vanuatu",-17.74572,168.31742,"camp",1,8650
+"Independence Park","Port Vila","Vanuatu",-17.74048,168.31756,"conflict",2,1000
+"Parliament House","Port Vila","Vanuatu",-17.7455,168.31572,"town",3,7205
